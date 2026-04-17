@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
-import imgSpiderman from '../assets/spiderman/20260407_055437.png';
+import imgSpiderman from '../assets/man/20260407_055437.png';
 import imgMan from '../assets/man/1775519899126.png';
 
 gsap.registerPlugin(ScrollTrigger);
